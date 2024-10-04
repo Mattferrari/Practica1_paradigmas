@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matte\\OneDrive\\Escritorio\\3IMAT\\Paradigmas de la Programaci\u00F3n\\Practica1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8069673C-A18C-468A-9A82-DE006C292232}|Practica1.csproj|c:\\users\\matte\\onedrive\\escritorio\\3imat\\paradigmas de la programaci\u00F3n\\practica1\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069673C-A18C-468A-9A82-DE006C292232}|Practica1.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069673C-A18C-468A-9A82-DE006C292232}|Practica1.csproj|c:\\users\\matte\\onedrive\\escritorio\\3imat\\paradigmas de la programaci\u00F3n\\practica1\\radar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069673C-A18C-468A-9A82-DE006C292232}|Practica1.csproj|solutionrelative:radar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069673C-A18C-468A-9A82-DE006C292232}|Practica1.csproj|c:\\users\\matte\\onedrive\\escritorio\\3imat\\paradigmas de la programaci\u00F3n\\practica1\\practica1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8069673C-A18C-468A-9A82-DE006C292232}|Practica1.csproj|solutionrelative:practica1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069673C-A18C-468A-9A82-DE006C292232}|Practica1.csproj|c:\\users\\matte\\onedrive\\escritorio\\3imat\\paradigmas de la programaci\u00F3n\\practica1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069673C-A18C-468A-9A82-DE006C292232}|Practica1.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matte\\source\\repos\\Practica1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matte\\source\\repos\\Practica1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Practica1\\Program.cs",
+              "ToolTip": "C:\\Users\\matte\\source\\repos\\Practica1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\Practica1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:50:06.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "radar.cs",
+              "DocumentMoniker": "C:\\Users\\matte\\OneDrive\\Escritorio\\3IMAT\\Paradigmas de la Programaci\u00F3n\\Practica1\\radar.cs",
+              "RelativeDocumentMoniker": "radar.cs",
+              "ToolTip": "C:\\Users\\matte\\OneDrive\\Escritorio\\3IMAT\\Paradigmas de la Programaci\u00F3n\\Practica1\\radar.cs",
+              "RelativeToolTip": "radar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:42:31.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\matte\\OneDrive\\Escritorio\\3IMAT\\Paradigmas de la Programaci\u00F3n\\Practica1\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\matte\\OneDrive\\Escritorio\\3IMAT\\Paradigmas de la Programaci\u00F3n\\Practica1\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:11:32.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\matte\\OneDrive\\Escritorio\\3IMAT\\Paradigmas de la Programaci\u00F3n\\Practica1\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "C:\\Users\\matte\\OneDrive\\Escritorio\\3IMAT\\Paradigmas de la Programaci\u00F3n\\Practica1\\main.cs",
+              "RelativeToolTip": "main.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:11:25.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practica1.csproj",
+              "DocumentMoniker": "C:\\Users\\matte\\OneDrive\\Escritorio\\3IMAT\\Paradigmas de la Programaci\u00F3n\\Practica1\\Practica1.csproj",
+              "RelativeDocumentMoniker": "Practica1.csproj",
+              "ToolTip": "C:\\Users\\matte\\OneDrive\\Escritorio\\3IMAT\\Paradigmas de la Programaci\u00F3n\\Practica1\\Practica1.csproj",
+              "RelativeToolTip": "Practica1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T18:53:51.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
